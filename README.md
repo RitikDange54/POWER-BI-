@@ -13,10 +13,4 @@ This project is a real-time Power BI dashboard analyzing Indian election data, i
 - Power Query
 - DAX
 
-## Preview
-![Dashboard Screenshot](screenshot.png)
 
-## How to Use
-1. Download the `.pbix` file
-2. Open it in Power BI Desktop
-3. Replace the dataset if needed
